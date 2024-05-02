@@ -1,0 +1,20 @@
+2024-03-07 15:50:11,884 - Invalid message received from client: Client Id: 123, Client Type: 0, Message Id: 0, Payload: 1235
+2024-03-07 15:51:05,273 - Invalid message received from client: Client Id: 123, Client Type: 0, Message Id: 1, Payload: sdfghnj
+2024-03-07 15:51:20,469 - Invalid message received from client: Client Id: 123, Client Type: 0, Message Id: 2, Payload: dfghj
+2024-03-07 15:52:22,742 - Invalid message received from client: Client Id: 123, Client Type: 0, Message Id: 0, Payload: dfghj
+2024-03-07 15:54:56,063 - Invalid message received from client: Client Id: 123, Client Type: 0, Message Id: 3, Payload: vb
+2024-03-07 15:55:12,668 - Invalid message received from client: Client Id: 123, Client Type: 0, Message Id: 1, Payload: fghjk
+2024-03-07 15:57:34,505 - Invalid message received from client: Client Id: 23, Client Type: 0, Message Id: 0, Payload: fghj
+2024-03-07 15:57:45,261 - Invalid message received from client: Client Id: 12, Client Type: 0, Message Id: 1, Payload: fghjkl
+2024-03-07 15:59:44,867 - Invalid message received from client: Client Id: 123, Client Type: 0, Message Id: 0, Payload: asdfghjkl;
+2024-03-07 16:00:26,941 - Error parsing message: invalid literal for int() with base 10: '123\\'
+2024-03-07 16:00:26,941 - Invalid message received from client: Client Id: 123\, Client Type: 0, Message Id: 0, Payload: 12354
+2024-03-07 16:00:44,908 - Invalid message received from client: Client Id: 123, Client Type: 0, Message Id: 0, Payload: kjhgfd
+2024-03-07 16:02:40,680 - Invalid message received from client: Client Id: 123, Client Type: 0, Message Id: 0, Payload: kl
+2024-03-07 16:07:18,799 - Invalid message received from client: Client Id: 23, Client Type: 0, Message Id: 0, Payload: jk
+2024-03-07 16:21:43,833 - Error parsing message: invalid literal for int() with base 10: 'fghjk'
+2024-03-07 16:21:43,834 - Invalid message received from client: Car Id: 123, Message Id: 6, Payload: fghjk
+2024-03-07 16:22:28,344 - Error parsing message: invalid literal for int() with base 10: 'ghj'
+2024-03-07 16:22:28,344 - Invalid message received from client: Car Id: 12, Message Id: 6, Payload: ghj
+2024-03-07 16:22:47,190 - Invalid message received from client: Client Id: 12, Client Type: 0, Message Id: 0, Payload: ghjk
+2024-03-07 16:49:54,615 - Invalid message received from client: Client Id: 123, Client Type: 0, Message Id: 0, Payload: dfghjk
